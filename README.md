@@ -1,2 +1,6 @@
 # Portfolio
-h
+•About me
+•CV
+•Skills
+•Tools
+•Courses
