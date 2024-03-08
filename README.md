@@ -52,7 +52,18 @@ Please do check my [CV](https://docs.google.com/document/d/1e8HRJShl7yO0fzTKQ5id
 
 
 ## Tools
-List the tools you're proficient with.
+### Jira
+  •
+### Trello
+  •
+### Notion
+  •
+### React Native Framework
+  •
+### React JS
+  •
+### Visual Studio Code
+  •
 
 ## Courses
 List any relevant courses you've taken.
