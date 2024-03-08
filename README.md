@@ -4,7 +4,7 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
+- [Samples of Work](#samples-of-work)
 
 ## About me
 I am a design oriented person, my background in mobile development and graphics design helped me to become a creative and flexible person. As a developer, I'm committed to creating functional and accessible features, while as a designer, I strive to captivate users with seamless design and graphics.
