@@ -20,31 +20,30 @@ Please do check my [CV](https://docs.google.com/document/d/1e8HRJShl7yO0fzTKQ5id
 
 ## Skills
 #### Manual Testing
-  • Able to perform functional, performance, accessibility, and compatibility testing
+    • Able to perform functional, performance, accessibility, and compatibility testing
 
-  • First hand experience in mobile app development cycle as well as testing cycles
+    • First hand experience in mobile app development cycle as well as testing cycles
 
 #### Test Documentation
-     • Experienced in creating test cases, test plans, and test scripts.
+    • Experienced in creating test cases, test plans, and test scripts.
   
-     • Strong analytical and problem-solving skills in QA testing scenarios.
   
-     • Skilled in identifying, documenting, and reporting software defects.
+    • Skilled in identifying, documenting, and reporting software defects.
 
 #### Test Analysis
-     • Proficient in analyzing project requirements and translating them into comprehensive test plans and strategies.
+    • Proficient in analyzing project requirements and translating them into comprehensive test plans and strategies.
   
-     • Experienced in identifying test scenarios, test cases, and test data necessary for thorough testing coverage.
+    • Experienced in identifying test scenarios, test cases, and test data necessary for thorough testing coverage.
   
-     • Strong analytical and problem-solving skills in QA testing scenarios.
+    • Strong analytical and problem-solving skills in QA testing scenarios.
   
 
 #### Javascript Programming
-     • Proficient in JavaScript programming language.
+    • Proficient in JavaScript programming language.
 
-     • Experience developing interactive web applications and dynamic web pages.
+    • Experience developing mobile applications.
   
-     • Strong understanding of JavaScript concepts such as variables, functions, loops, and conditionals.
+    • Good understanding of JavaScript concepts such as variables, functions, loops, and conditionals.
 
 
 
@@ -52,18 +51,29 @@ Please do check my [CV](https://docs.google.com/document/d/1e8HRJShl7yO0fzTKQ5id
 
 
 ## Tools
-### Jira
-  •
-### Trello
-  •
-### Notion
-  •
-### React Native Framework
-  •
-### React JS
-  •
-### Visual Studio Code
-  •
+#### Jira
+  • Able to create clear and concise bug reports
+  • Know how to create and and track projects
+#### Trello
+  • Proficient in using and organizing Kanban boards
+  • Able to track progress of tickets
+#### Notion
+  • Micromanage overarching details in bug tickets
+  • Track weekly and monthly goals
+#### React Native Framework
+  • Able to develop multi-platform mobile applications
+  • Perform whitebox testing
+  
+#### React JS
+  • Use libraries
+  • Fundamentals in state management libraries like Redux or Context API.
+#### Visual Studio Code
+  • Proficient in using it as a primary code editor for projects
+  • Able to use integrated version control systems, version tracking, and collaboration with team members.
 
-## Courses
-List any relevant courses you've taken.
+## Samples of Work
+### Test Cases
+
+### Bug Documentations in Jira
+
+### Developed Sample Application for Testing
