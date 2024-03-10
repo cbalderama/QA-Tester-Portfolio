@@ -53,26 +53,37 @@ Please do check my [CV](https://docs.google.com/document/d/1e8HRJShl7yO0fzTKQ5id
 ## Tools
 #### Jira
   • Able to create clear and concise bug reports
+  
   • Know how to create and and track projects
 #### Trello
   • Proficient in using and organizing Kanban boards
+  
   • Able to track progress of tickets
 #### Notion
   • Micromanage overarching details in bug tickets
+  
   • Track weekly and monthly goals
 #### React Native Framework
   • Able to develop multi-platform mobile applications
+  
   • Perform whitebox testing
   
 #### React JS
   • Use libraries
+  
   • Fundamentals in state management libraries like Redux or Context API.
 #### Visual Studio Code
   • Proficient in using it as a primary code editor for projects
+  
   • Able to use integrated version control systems, version tracking, and collaboration with team members.
 
 ## Samples of Work
 ### Test Cases
+• I have created a sample [To-Do App](https://drive.google.com/file/d/1VUUGE4EHK4JHJRN7VUDbr7pg_T622AoJ/view?usp=drive_link), which was used to create the following demo test cases.
+
+- Demo Test Case 1 for verifying the functionality of the "Add" button. Check it in this [Google Sheet Document](https://docs.google.com/spreadsheets/d/1sTGFlpksRebW3wokx_kV1x7hVqtdn9-YuPsZyeA237E/edit?usp=sharing)
+
+- Demo Test Case 2 for verifying that added todo items are saved upon closing and reopening app. Check it in this [Google Sheet Document](https://docs.google.com/spreadsheets/d/1bx3F2hfONAz9jvG4BLmjJ1rKaETOjakP-c18B_2JOjc/edit?usp=sharing)
 
 ### Bug Documentations in Jira
 
