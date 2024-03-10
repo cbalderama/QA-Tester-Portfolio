@@ -29,7 +29,7 @@ Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVS
     • First hand experience in mobile app development cycle as well as testing cycles
 
 #### Test Documentation
-    • Experienced in creating test cases, test plans, and test scripts.
+    • Experienced in creating test cases, test plans, and test data.
   
   
     • Skilled in identifying, documenting, and reporting software defects.
