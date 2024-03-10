@@ -87,4 +87,12 @@ Please do check my [CV](https://docs.google.com/document/d/1e8HRJShl7yO0fzTKQ5id
 
 ### Bug Documentations in Jira
 
-### Developed Sample Application for Testing
+## Books I have read
+#### •Software Development
+##### Software Development from A to Z: A Deep Dive Into All the Roles Involved in the Creation of Software by Olga Filipova & Rui Vilão
+
+#### •Game Development
+##### Complete Unity 2018 Game Development 5th Edition
+
+#### •Software Testing
+##### Software Quality: The Complexity and Challenges of Software Engineering and Software Quality by Dietmar Winkler & Stefan Biffl & Johannes Bergsmann
