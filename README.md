@@ -2,6 +2,7 @@
 
 - [About me](#about-me)
 - [CV](#cv)
+- [Resume](#resume)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Samples of Work](#samples-of-work)
@@ -17,6 +18,9 @@ It would be an honor to receive hands-on experience and knowledge in the field o
 
 ## CV
 Please do check my [CV](https://docs.google.com/document/d/1e8HRJShl7yO0fzTKQ5idCdAKaN_kQ88wVCFJc-aOGh4/edit?usp=sharing).
+
+## Resume
+Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVSdiHVkZT940N6i/view?usp=drive_link).
 
 ## Skills
 #### Manual Testing
@@ -86,6 +90,17 @@ Please do check my [CV](https://docs.google.com/document/d/1e8HRJShl7yO0fzTKQ5id
 - Demo Test Case 2 for verifying that added todo items are saved upon closing and reopening app. Check it in this [Google Sheet Document](https://docs.google.com/spreadsheets/d/1bx3F2hfONAz9jvG4BLmjJ1rKaETOjakP-c18B_2JOjc/edit?usp=sharing)
 
 ### Bug Documentations in Jira
+•Bugs found and reported in the Custom Todo App:
+
+-Bug #1. Refer to Jira Bug report 1. Check it in this [Google Docs Document](https://docs.google.com/document/d/1Z-Sl0vJotKkMHyd-JDT_HumRjl_dtf4F1roVOWlsZgA/edit?usp=sharing)
+
+-Bug #2. Refer to Jira Bug report 2. Check it in this [Google Docs Document](https://docs.google.com/document/d/17hY8YFThOforzugo3j5r438dq3rUD-ovFOsnS3OwXdM/edit?usp=sharing)
+
+### Jira Bug Report Screenshots
+
+-[Bug Report1 Screenshot](https://drive.google.com/file/d/1App-YrW9IXFrOEOlb44PDBdTSpPMW7UV/view?usp=drive_link)
+
+-[Bug Report2 Screenshot](https://drive.google.com/file/d/12sDMtwioW396Z-w8rrBw2pedYQJeMchU/view?usp=drive_link)
 
 ## Books I have read
 #### •Software Development
