@@ -24,30 +24,30 @@ Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVS
 
 ## Skills
 #### Manual Testing
-    • Able to perform functional, performance, accessibility, and compatibility testing
+• Able to perform functional, performance, accessibility, and compatibility testing
 
-    • First hand experience in mobile app development cycle as well as testing cycles
+• First hand experience in mobile app development cycle as well as testing cycles
 
 #### Test Documentation
-    • Experienced in creating test cases, test plans, and test data.
+• Experienced in creating test cases, test plans, and test data.
   
   
-    • Skilled in identifying, documenting, and reporting software defects.
+• Skilled in identifying, documenting, and reporting software defects.
 
 #### Test Analysis
-    • Proficient in analyzing project requirements and translating them into comprehensive test plans and strategies.
+• Proficient in analyzing project requirements and translating them into comprehensive test plans and strategies.
   
-    • Experienced in identifying test scenarios, test cases, and test data necessary for thorough testing coverage.
+• Experienced in identifying test scenarios, test cases, and test data necessary for thorough testing coverage.
   
-    • Strong analytical and problem-solving skills in QA testing scenarios.
+• Strong analytical and problem-solving skills in QA testing scenarios.
   
 
 #### Javascript Programming
-    • Proficient in JavaScript programming language.
+• Proficient in JavaScript programming language.
 
-    • Experience developing mobile applications.
+• Experience developing mobile applications.
   
-    • Good understanding of JavaScript concepts such as variables, functions, loops, and conditionals.
+• Good understanding of JavaScript concepts such as variables, functions, loops, and conditionals.
 
 
 
@@ -56,30 +56,30 @@ Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVS
 
 ## Tools
 #### Jira
-  • Able to create clear and concise bug reports
+• Able to create clear and concise bug reports
   
-  • Know how to create and and track projects
+• Know how to create and and track projects
 #### Trello
-  • Proficient in using and organizing Kanban boards
+• Proficient in using and organizing Kanban boards
   
-  • Able to track progress of tickets
+• Able to track progress of tickets
 #### Notion
-  • Micromanage overarching details in bug tickets
+• Micromanage overarching details in bug tickets
   
-  • Track weekly and monthly goals
+• Track weekly and monthly goals
 #### React Native Framework
-  • Able to develop multi-platform mobile applications
+• Able to develop multi-platform mobile applications
   
-  • Perform whitebox testing
+• Perform whitebox testing
   
 #### React JS
-  • Use libraries
+• Use libraries
   
-  • Fundamentals in state management libraries like Redux or Context API.
+• Fundamentals in state management libraries like Redux or Context API.
 #### Visual Studio Code
-  • Proficient in using it as a primary code editor for projects
+• Proficient in using it as a primary code editor for projects
   
-  • Able to use integrated version control systems, version tracking, and collaboration with team members.
+• Able to use integrated version control systems, version tracking, and collaboration with team members.
 
 ## Samples of Work
 ### Test Cases
