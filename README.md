@@ -17,7 +17,7 @@ As of now, I wish to use my skills and knowledge as a developer and graphics des
 It would be an honor to receive hands-on experience and knowledge in the field of software testing to reach my goal as an expert in the field.
 
 ## CV
-Please do check my [CV]([https://docs.google.com/document/d/1e8HRJShl7yO0fzTKQ5idCdAKaN_kQ88wVCFJc-aOGh4/edit?usp=sharing](https://drive.google.com/file/d/1gdftfJT-BGEhxOfxgUCeg2S2CW6T2RBB/view?usp=drive_link)).
+Please do check my [CV](https://drive.google.com/file/d/1gdftfJT-BGEhxOfxgUCeg2S2CW6T2RBB/view?usp=drive_link).
 
 ## Resume
 Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVSdiHVkZT940N6i/view?usp=drive_link).
