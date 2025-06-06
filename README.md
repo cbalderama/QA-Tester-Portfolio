@@ -8,13 +8,10 @@
 - [Samples of Work](#samples-of-work)
 
 ## About me
-I am a design oriented person, my background in mobile development and graphics design helped me to become a creative and flexible person. As a developer, I'm committed to creating functional and accessible features, while as a designer, I strive to captivate users with seamless design and graphics.
-
-I have received my Bachelor's Degree in Computer Science from Sorsogon State University. I've also gained experience as an assistant specialist in Search Engine Optimization and as a Mobile Developer for a children's app under a development and humanitarian organization.
-
-As of now, I wish to use my skills and knowledge as a developer and graphics designer in software testing.I am always expanding my skillset via technical and practical learning opportunities, ensuring I stay updated with the latest developments in the field.
-
-It would be an honor to receive hands-on experience and knowledge in the field of software testing to reach my goal as an expert in the field.
+I am a design and functional oriented person, I prefer things to be visually appealing but also practical and efficient- and I carry that throughout my career as a Software Tester.
+I am experienced in both manual and automation testing, with strong skills in writing automation scripts and test cases. 
+Having a background in software development allows me to understand the full software development lifecycle, not just the testing phase.
+I am always eager to use my skills and knowledge as a Software tester and Software developer in the Software industry. I am always expanding my skillset via technical and practical learning opportunities, ensuring I stay updated with the latest developments in the field.
 
 ## CV
 Please do check my [CV](https://drive.google.com/file/d/1gdftfJT-BGEhxOfxgUCeg2S2CW6T2RBB/view?usp=sharing).
