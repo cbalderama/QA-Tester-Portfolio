@@ -21,14 +21,19 @@ Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVS
 
 ## Skills
 #### Manual Testing
-• Able to perform functional, performance, accessibility, and compatibility testing
+• Able to perform manual testing to identify bugs, validate functionality, and ensure software met quality standards and user requirements.
 
-• First hand experience in mobile app development cycle as well as testing cycles
+• First hand experience in Software development cycle as well as testing cycles
+#### Automation Testing
+• Able to perform automation testing by creating and running test scripts using tools, ensuring faster, consistent, and reliable validation of software functionality.
+
+• Create optimized project structures and framework for efficiency. 
 
 #### Test Documentation
 • Experienced in creating test cases, test plans, and test data.
-  
-  
+
+• Write organized and timely test reports.
+
 • Skilled in identifying, documenting, and reporting software defects.
 
 #### Test Analysis
@@ -39,12 +44,12 @@ Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVS
 • Strong analytical and problem-solving skills in QA testing scenarios.
   
 
-#### Javascript Programming
-• Proficient in JavaScript programming language.
+#### Software Programming
+• Proficient in the fundamentals of programming language.
 
 • Experience developing mobile applications.
   
-• Good understanding of JavaScript concepts such as variables, functions, loops, and conditionals.
+• Good understanding of programming concepts such as variables, functions, loops, and conditionals.
 
 
 
@@ -56,23 +61,22 @@ Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVS
 • Able to create clear and concise bug reports
   
 • Know how to create and and track projects
-#### Trello
-• Proficient in using and organizing Kanban boards
   
-• Able to track progress of tickets
-#### Notion
-• Micromanage overarching details in bug tickets
-  
-• Track weekly and monthly goals
-#### React Native Framework
-• Able to develop multi-platform mobile applications
-  
-• Perform whitebox testing
-  
-#### React JS
-• Use libraries
-  
-• Fundamentals in state management libraries like Redux or Context API.
+#### Eclipse
+•Able to setup and configure IDE to manage test automation projects
+
+#### Selenium
+• Write and configure scripts with the Selenium Framework for test automation.
+
+#### Cucumber
+• Use Cucumber tool and the Gherkin language to write automated acceptance tests in plain language.
+
+#### TOSCA
+• Use TOSCA tool on automating continuous end-to-end testing for software applications using a model-based approach.
+
+#### Behavior-Driven Development (BDD)
+• Proficient in Behavior-Driven Development (BDD), which helps ensure that software behaves as expected from a user's perspective.
+
 #### Visual Studio Code
 • Proficient in using it as a primary code editor for projects
   
