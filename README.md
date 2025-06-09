@@ -9,8 +9,11 @@
 
 ## About me
 I am a design and functional oriented person, I prefer things to be visually appealing but also practical and efficient- and I carry that throughout my career as a Software Tester.
-n/ I am experienced in both manual and automation testing, with strong skills in writing automation scripts and test cases. 
+
+I am experienced in both manual and automation testing, with strong skills in writing automation scripts and test cases. 
+
 Having a background in software development allows me to understand the full software development lifecycle, not just the testing phase.
+
 I am always eager to use my skills and knowledge as a Software tester and Software developer in the Software industry. I am always expanding my skillset via technical and practical learning opportunities, ensuring I stay updated with the latest developments in the field.
 
 ## CV
