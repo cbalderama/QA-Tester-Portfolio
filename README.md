@@ -58,12 +58,12 @@ Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVS
 
 ## Tools
 #### Jira
-• Able to create clear and concise bug reports
+• Able to create clear and concise bug reports.
   
-• Know how to create and and track projects
+• Know how to create and and track projects.
   
 #### Eclipse
-•Able to setup and configure IDE to manage test automation projects
+•Able to setup and configure IDE to manage test automation projects.
 
 #### Selenium
 • Write and configure scripts with the Selenium Framework for test automation.
@@ -81,6 +81,21 @@ Please do check my [Resume](https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVS
 • Proficient in using it as a primary code editor for projects
   
 • Able to use integrated version control systems, version tracking, and collaboration with team members.
+
+#### Salesforce
+• Experienced in testing Salesforce, including validating workflows, user roles, and data integrity.
+
+#### Postman API
+• Experienced in executing, and verifying endpoint functionality and response.
+
+#### Jenkins
+• Deployment of builds in Jenkins pipelines to support continuous integration and workflows.
+
+#### Qtest
+• Able to use Qtest for test case management, defect tracking, and aligning test execution with project requirements.
+
+#### Autosys
+• Knowledgeable in scheduling and monitoring batch jobs using Autosys to support end-to-end testing of backend processes.
 
 ## Samples of Work
 ### Test Cases
