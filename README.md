@@ -13,7 +13,7 @@ Having a background in software programming allows me to understand the full sof
 I am always eager to use my skills and knowledge as a Software tester and Software developer in the Software industry. I am always expanding my skillset via technical and practical learning opportunities, ensuring I stay updated with the latest developments in the field.
 
 ## Resume
-Please do check my [Resume]([https://drive.google.com/file/d/1pDb8PvpKyCiUewIbvVSdiHVkZT940N6i/view?usp=drive_link](https://drive.google.com/file/d/1if3VI-eXRetpOolR3aWPloUlOLj07pPF/view?usp=drive_link)).
+Please do check my [Resume](https://drive.google.com/file/d/1if3VI-eXRetpOolR3aWPloUlOLj07pPF/view?usp=drive_link).
 
 ## Skills
 #### Manual Testing
