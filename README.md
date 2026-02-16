@@ -19,6 +19,11 @@ Please do check my [Resume](https://drive.google.com/file/d/1jwgbRBWJiz-CxJ1LA-4
 ## Curriculum Vitae
 Please do check my [Curriculum Vitae](https://drive.google.com/file/d/1_lz0TdCP4D4hGWW617fgndrcgSpXIfb5/view?usp=sharing).
 
+
+
+
+
+
 ## Skills
 #### Manual Testing
 • Experienced in end-to-end manual testing for web and mobile platforms, including SIT, UAT, and Alpha/Beta program management.
@@ -82,6 +87,9 @@ Please do check my [Curriculum Vitae](https://drive.google.com/file/d/1_lz0TdCP4
 • Knowledgeable in scheduling and monitoring batch jobs using Autosys to support end-to-end testing of backend processes.
 
 ## Samples of Work
+### Automation Testing Sample Project
+• 
+
 ### Test Cases
 • I have created a sample [To-Do App](https://drive.google.com/file/d/1VUUGE4EHK4JHJRN7VUDbr7pg_T622AoJ/view?usp=drive_link), which was used to create the following demo test cases.
 
