@@ -17,31 +17,28 @@ Please do check my [Resume](https://drive.google.com/file/d/1LxABlUeRtCQGiYYzaKW
 
 ## Skills
 #### Manual Testing
-• Able to perform manual testing to identify bugs, validate functionality, and ensure software met quality standards and user requirements.
+• Experienced in end-to-end manual testing for web and mobile platforms, including SIT, UAT, and Alpha/Beta program management.
 
 • First hand experience in Software development cycle as well as testing cycles
 #### Automation Testing
-• Able to perform automation testing by creating and running test scripts using tools, ensuring faster, consistent, and reliable validation of software functionality.
+• TOSCA certified with hands-on experience creating automated test scripts using Selenium and Appium for finance and AI-powered applications.
 
 • Create optimized project structures and framework for efficiency. 
 
-#### Test Documentation
-• Experienced in creating test cases, test plans, and test data.
+#### Test Documentation & Strategy
+• Expert in developing comprehensive test plans, governance frameworks, and exhaustive test cases aligned with agile goals and performance standards.
 
 • Write organized and timely test reports.
 
 • Skilled in identifying, documenting, and reporting software defects.
 
-#### Test Analysis
-• Proficient in analyzing project requirements and translating them into comprehensive test plans and strategies.
+#### Test Analysis & Leadership
+• Strategic leader in quality management, proficient in analyzing complex backend integrations, third-party APIs, and identifying critical system gaps.
   
 • Experienced in identifying test scenarios, test cases, and test data necessary for thorough testing coverage.
-  
-• Strong analytical and problem-solving skills in QA testing scenarios.
-  
 
 #### Software Programming
-• Proficient in the fundamentals of programming language.
+• Professional background in React Native development and Computer Science, specializing in enhancing UI/UX and functional features for mobile applications.
 
 • Experience developing mobile applications.
   
@@ -53,36 +50,23 @@ Please do check my [Resume](https://drive.google.com/file/d/1LxABlUeRtCQGiYYzaKW
 
 
 ## Tools
-#### Jira
-• Able to create clear and concise bug reports.
-  
-• Know how to create and and track projects.
-  
-#### Eclipse
-•Able to setup and configure IDE to manage test automation projects.
+#### Jira & QTest
+• Proficient in using Jira and Qtest for defect lifecycle management, project tracking, and aligning test execution with business requirements.
 
-#### Selenium
-• Write and configure scripts with the Selenium Framework for test automation.
-
-#### Cucumber
-• Use Cucumber tool and the Gherkin language to write automated acceptance tests in plain language.
+#### Selenium & Appium
+• Skilled in writing and configuring automation scripts for both web and mobile environments to ensure platform-wide stability.
 
 #### TOSCA
-• Use TOSCA tool on automating continuous end-to-end testing for software applications using a model-based approach.
+• Certified in model-based automation for continuous end-to-end testing of complex enterprise software applications.
 
-#### Behavior-Driven Development (BDD)
-• Proficient in Behavior-Driven Development (BDD), which helps ensure that software behaves as expected from a user's perspective.
+#### AI & API Testing (OpenAI/Postman)
+• Experienced in validating AI-powered components and third-party API communications, including OpenAI integration for automated scheduling and budgeting.
 
-#### Visual Studio Code
-• Proficient in using it as a primary code editor for projects
-  
-• Able to use integrated version control systems, version tracking, and collaboration with team members.
+#### IDEs (VS Code, Intellij, & Eclipse)
+• Proficient in using modern IDEs for version control, code editing, and configuring complex test automation frameworks.
 
-#### Salesforce
+#### Salesforce & Backend Tools
 • Experienced in testing Salesforce, including validating workflows, user roles, and data integrity.
-
-#### Postman API
-• Experienced in executing, and verifying endpoint functionality and response.
 
 #### Jenkins
 • Deployment of builds in Jenkins pipelines to support continuous integration and workflows.
