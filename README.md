@@ -186,7 +186,7 @@ Successfully delivered QA for 13+ client projects within timeline and budget con
   [Test Evidences](https://drive.google.com/drive/folders/18WYtXKNZLO8XtADyB7XACXH7yC3YT1Tt?usp=sharing)  
   [Post Conditions](https://drive.google.com/drive/folders/1xUP0ZkfUo5SCykJs_Sj7vkwjVanqg2xk?usp=sharing)  
 
-- Demo Test Case 2 for verifying that added todo items are saved upon closing and reopening app. Check it in this  
+- Demo Test Case 2_ Complete Checkout Flow - Positive Scenario  
   [Test Case](https://drive.google.com/file/d/1ZF_pcjgQBcx--u1_phpu5P6nnreOFl5I/view?usp=sharing)  
   [Test Evidences](https://drive.google.com/drive/folders/18ERWoZmy9JnnWn-maOCZCezyk1kGjMFi?usp=sharing)  
   [Post Conditions](https://drive.google.com/drive/folders/1KRPYOg0E6_K9t-U6-JRfsuRaBIkTqWQT?usp=sharing)   
