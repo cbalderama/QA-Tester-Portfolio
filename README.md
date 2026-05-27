@@ -173,10 +173,6 @@ Successfully delivered QA for 13+ client projects within timeline and budget con
 ---
 
 ## Samples of Work
-### Automation Testing Sample Project
-• This is my sample Automation Test Project using Appium for a [Bar Hopping App](https://github.com/cbalderama/BunnyTesting)
-
-• The proof of testing of the Automation Project [here](https://drive.google.com/file/d/1SpLeP05pj73QvlFhp7q1AEDgJyH4aYz-/view?usp=sharing)
 
 ### Test Cases
 • I have created a sample E-commerce App which was used to create the following demo test cases.
@@ -191,16 +187,18 @@ Successfully delivered QA for 13+ client projects within timeline and budget con
   [Test Evidences](https://drive.google.com/drive/folders/18ERWoZmy9JnnWn-maOCZCezyk1kGjMFi?usp=sharing)  
   [Post Conditions](https://drive.google.com/drive/folders/1KRPYOg0E6_K9t-U6-JRfsuRaBIkTqWQT?usp=sharing)   
 
-### Bug Documentations in Jira
-•Bugs found and reported in the Custom Todo App:
+### Bug Documentations
+• Bug found and reported in the E-Commerce App:
+- Place Order Button Creates Order Without Database Persistence
+ [Bug Report](https://drive.google.com/file/d/1fVaDsV88B5mOo38zQC7HjMMuhHgYCrM4/view?usp=sharing)
 
--Bug #1. Refer to Jira Bug report 1. Check it in this [Google Docs Document](https://docs.google.com/document/d/1Z-Sl0vJotKkMHyd-JDT_HumRjl_dtf4F1roVOWlsZgA/edit?usp=sharing)
+### Automation Testing Sample Project
+• This is my sample Automation Test Project using Appium for a [Bar Hopping App](https://github.com/cbalderama/BunnyTesting)
 
--Bug #2. Refer to Jira Bug report 2. Check it in this [Google Docs Document](https://docs.google.com/document/d/17hY8YFThOforzugo3j5r438dq3rUD-ovFOsnS3OwXdM/edit?usp=sharing)
+• The proof of testing of the Automation Project [here](https://drive.google.com/file/d/1SpLeP05pj73QvlFhp7q1AEDgJyH4aYz-/view?usp=sharing)
 
-### Jira Bug Report Screenshots
+### Unit Testing
+[](https://drive.google.com/file/d/1qJr_jHLfjji2EdBnV6SH-ECrpJkS0Pgc/view?usp=sharing)
 
--[Bug Report1 Screenshot](https://drive.google.com/file/d/1App-YrW9IXFrOEOlb44PDBdTSpPMW7UV/view?usp=drive_link)
 
--[Bug Report2 Screenshot](https://drive.google.com/file/d/12sDMtwioW396Z-w8rrBw2pedYQJeMchU/view?usp=drive_link)
 
