@@ -172,20 +172,6 @@ Successfully delivered QA for 13+ client projects within timeline and budget con
 
 ---
 
-## Key Achievements & Metrics
-
-**86.55% Code Coverage Achievement**
-Architected and executed comprehensive unit testing strategy achieving 86.55% service layer coverage. Established 80% SonarCloud quality gates with zero critical issues.
-
-**100% Test Case Execution Rate**
-Executed 600+ test cases with perfect completion rate across SIT, UAT, and production. Maintained zero defect spillover through effective prioritization.
-
-**30-Day Timeline Acceleration**
-Delivered optimized test plans reducing project timeline by 30 days without quality compromise. Demonstrated testing efficiency and strategic planning expertise.
-
-**87% Automation Framework Coverage**
-Configured automation frameworks covering 87% of user stories. Significantly reduced manual testing effort and regression test cycle time.
-
 ## Samples of Work
 ### Automation Testing Sample Project
 • This is my sample Automation Test Project using Appium for a [Bar Hopping App](https://github.com/cbalderama/BunnyTesting)
@@ -193,9 +179,10 @@ Configured automation frameworks covering 87% of user stories. Significantly red
 • The proof of testing of the Automation Project [here](https://drive.google.com/file/d/1SpLeP05pj73QvlFhp7q1AEDgJyH4aYz-/view?usp=sharing)
 
 ### Test Cases
-• I have created a sample [To-Do App](https://drive.google.com/file/d/1VUUGE4EHK4JHJRN7VUDbr7pg_T622AoJ/view?usp=drive_link), which was used to create the following demo test cases.
+• I have created a sample E-commerce App which was used to create the following demo test cases.
 
-- Demo Test Case 1 for verifying the functionality of the "Add" button. Check it in this [Google Sheet Document](https://docs.google.com/spreadsheets/d/1sTGFlpksRebW3wokx_kV1x7hVqtdn9-YuPsZyeA237E/edit?usp=sharing)
+- Demo Test Case 1_ Add Product to Cart - Positive Scenario.[Google Sheet Document](https://drive.google.com/file/d/1XjJ8XYJlEDDNHN8ilfJlPwJM-GAKV2WY/view?usp=sharing)
+  Test Evidence
 
 - Demo Test Case 2 for verifying that added todo items are saved upon closing and reopening app. Check it in this [Google Sheet Document](https://docs.google.com/spreadsheets/d/1bx3F2hfONAz9jvG4BLmjJ1rKaETOjakP-c18B_2JOjc/edit?usp=sharing)
 
