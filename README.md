@@ -129,7 +129,7 @@ it('should handle Firebase errors gracefully', async () => {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Testing:** Jest • Selenium • Appium • Postman  
 **CI/CD:** GitHub Actions • SonarCloud • CodeQL  
