@@ -88,66 +88,6 @@ it('should handle Firebase errors gracefully', async () => {
 
 ---
 
-## 🤖 AUTOMATION & TECHNICAL SKILLS
-
-### Appium Mobile Automation (E-commerce App)
-**Repository:** [-](-)  
-**Platforms:** iOS & Android
-
-Automated user authentication, navigation, social interactions, and data persistence across app sessions.
-
-[View Test Recording](https://drive.google.com/file/d/1SpLeP05pj73QvlFhp7q1AEDgJyH4aYz-/view?usp=sharing)
-
----
-
-### Selenium Framework Example
-**Language:** Java | **Application:** E-Commerce App | **Coverage:** 87% of user stories
-
-```java
-@Test
-public void testAddProductToCart() {
-    driver.findElement(By.id("catalog_link")).click();
-    driver.findElement(By.id("search_input")).sendKeys("Laptop");
-    driver.findElement(By.className("product_item")).click();
-    driver.findElement(By.id("add_to_cart_btn")).click();
-    
-    WebElement successMsg = driver.findElement(By.className("success_message"));
-    Assert.assertTrue(successMsg.isDisplayed());
-}
-```
-
----
-
-### API Testing (Postman)
-**Endpoints:** Firebase Firestore operations, Authentication, Custom REST APIs
-
-**Test Scenarios:**
-- ✅ Add product to cart → Verify Firebase document created
-- ✅ Complete checkout → Verify order persisted and cart cleared
-- ✅ Error handling → Verify proper error messages returned
-
----
-
-### SQL Query Examples
-**Test Data Preparation:**
-```sql
-INSERT INTO users (user_id, email) VALUES ('test_user_001', 'test@qa.com');
-INSERT INTO products (product_id, name, price) VALUES 
-  ('PROD_001', 'Laptop', 1599.99),
-  ('PROD_002', 'Phone', 999.99);
-```
-
-**Data Verification:**
-```sql
-SELECT o.order_id, SUM(oi.quantity * p.price) as total
-FROM orders o
-JOIN order_items oi ON o.order_id = oi.order_id
-JOIN products p ON oi.product_id = p.product_id
-WHERE o.user_id = 'test_user_001'
-GROUP BY o.order_id;
-```
-
----
 
 ### CI/CD Pipeline (GitHub Actions)
 
@@ -167,7 +107,7 @@ GROUP BY o.order_id;
 
 ---
 
-## 📊 METRICS & RESULTS
+##  METRICS & RESULTS
 
 ### Code Coverage Dashboard
 
@@ -198,11 +138,10 @@ GROUP BY o.order_id;
 
 ---
 
-## 📚 Resources
+##  Resources
 
 - **GitHub Profile:** [cbalderama](https://github.com/cbalderama)
 - **Main Project:** [PersonalProject](https://github.com/cbalderama/PersonalProject)
-- **Automation Project:** [-](-)
 - **Code Quality:** [SonarCloud Dashboard](https://sonarcloud.io/summary/new_code?id=cbalderama_PersonalProject)
 - **LinkedIn:** [cydrick-balderama](https://www.linkedin.com/in/cydrick-balderama-91953a21b)
 - **Email:** devbalderama@gmail.com
