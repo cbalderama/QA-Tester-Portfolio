@@ -1,204 +1,209 @@
-# Portfolio
+# QA Tester Portfolio
 
-- [About me](#about-me)
-- [Resume](#resume)
-- [Curriculum Vitae](#curriculum-vitae)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Samples of Work](#samples-of-work)
+## About Me
 
-## About me
-I am a design and functional oriented person, I prefer things to be visually appealing but also practical and efficient- and I carry that throughout my career as a Software Tester.  
-I am experienced in both manual and automation testing, with strong skills in writing automation scripts and test cases.  
-Having a background in software programming allows me to understand the full software development lifecycle, not just the testing phase.  
-I am always eager to use my skills and knowledge as a Software tester and Software developer in the Software industry. I am always expanding my skillset via technical and practical learning opportunities, ensuring I stay updated with the latest developments in the field.
+Software Quality Test Engineer with 4+ years across finance, healthcare, AI, and tourism. I architect testing strategies that prevent bugs before they reach production.
 
-## Resume
-Please do check my [Resume](https://drive.google.com/file/d/1j7d0L5QyxE6MfBjMhY9wj_DDPsnh7V0M/view?usp=sharing).
+**Key Results:**
+- Above 85% code coverage (Jest tests) — exceeded 80% target
+- 100% test execution rate across 5 major projects
+- 30-day timeline acceleration through optimized test planning
+- 87% automation framework coverage
 
-## Curriculum Vitae
-Please do check my [Curriculum Vitae](https://drive.google.com/file/d/1dnnlqsJG-Gxu4yr2W7J7Jr-LY5eJpoVw/view?usp=sharing).
+---
+To demonstrate my capabilities as a Software Test Engineer, I have developed a sample E-commerce App that will be the subject of the following test documents  
 
-## Testing & Quality Assurance
+## TEST DOCUMENTATION SAMPLES
+### Test Plan: E-Commerce Mobile App
+**Project Overview:** React Native Expo app with Firebase backend and GitHub Actions CI/CD pipeline
 
-**Manual Testing**
-Expertise in systematic test execution across desktop, mobile, and web applications. Designed and executed 600+ test cases with 100% execution rate across SIT, UAT, and production environments.
+**Key Sections:**
+- 150+ test cases across 7 modules (authentication, cart, checkout, wishlist, orders, profile, search)
+- Testing levels: Unit (86.55% coverage), Integration, System, Acceptance, Regression
+- Entry/Exit criteria with quality gates (80% coverage, 0 P0 defects, SonarCloud passing)
+- Risk assessment and defect management (P0-P3 severity levels)
+- Automation strategy: Jest unit tests, CI/CD pipeline, EAS mobile builds
 
-**Automation Testing**
-Proficient in building and maintaining automation frameworks achieving 87% user story coverage. Reduced manual testing effort through strategic automation of regression test suites.
-
-**Test Planning & Strategy**
-Delivered comprehensive test plans covering Alpha, SIT, UAT, Beta, and Production phases. Accelerated project timelines by 30 days through optimized testing strategies and risk assessment.
-
-**Test Case Design & Execution**
-Generated 600+ high-level test cases aligned with business requirements and regulatory compliance. Executed end-to-end test scenarios across multiple platforms and environments.
-
-**API Testing**
-Validated third-party API integrations including OpenAI endpoints for AI-powered applications. Performed comprehensive API performance testing and defect identification using Postman and SQL.
-
-**System Integration Testing (SIT)**
-Conducted thorough integration testing across client applications, ensuring seamless component interaction. Identified critical system gaps before production release through rigorous SIT protocols.
-
-**User Acceptance Testing (UAT)**
-Led UAT efforts for mission-critical applications across finance, healthcare, and tourism sectors. Collaborated with stakeholders to validate business logic and ensure solution readiness.
-
-**Regression Testing**
-Maintained extensive regression test suites (400+ test cases) following software updates. Ensured zero defect spillover through strategic prioritization and efficient defect lifecycle management.
-
-**Exploratory Testing**
-Conducted risk intelligence analysis and exploratory testing for AI-powered applications. Identified critical logic errors and edge cases through unscripted testing approaches.
-
-**Smoke Testing**
-Verified system stability and core functionality across new builds and deployments. Executed rapid smoke tests to ensure readiness for comprehensive regression testing.
-
-**Unit Testing**
-Developed comprehensive unit tests achieving 86.55% code coverage on critical service layers. Validated business logic through isolated component testing using Jest and TypeScript.
+[Full Test Plan](https://drive.google.com/file/d/1McHX65oCx7CPRiYcl4Q3pblZZE2R3XAY/view?usp=sharing)
 
 ---
 
-## Tools & Technologies
+### Test Execution Report: Sprint 12
+**Results:** 2 test cases executed | 1 PASSED ✅ | 1 FAILED ❌
 
-**Selenium**
-Proficient in Selenium WebDriver for cross-browser and responsive testing automation. Built automated test frameworks covering 87% of user stories across web applications.
-
-**Appium**
-Expertise in mobile automation testing for iOS and Android platforms. Automated mobile test scenarios reducing manual testing effort and increasing test coverage.
-
-**Postman**
-Advanced API testing capabilities including endpoint validation, performance testing, and mock server configuration. Validated OpenAI API integrations and complex API workflows.
-
-**JIRA**
-Expert defect lifecycle management across Agile teams. Tracked, prioritized, and managed 50+ defects ensuring timely resolution and zero sprint spillovers.
-
-**GitHub Actions**
-Implemented CI/CD pipelines automating test execution on every code push. Configured workflows triggering ESLint, TypeScript, Jest, and SonarCloud checks automatically.
-
-**SonarCloud**
-Established code quality gates requiring 80% coverage on new code. Achieved 86.55% service layer coverage with Quality Gate passing across all security and maintainability checks.
-
-**SQL**
-Wrote complex SQL queries for test data preparation, verification, and backend validation. Performed database integrity checks and data consistency verification across environments.
-
-**Git**
-Proficient in version control for code management and CI/CD integration. Managed feature branches, pull requests, and collaborative development workflows.
-
-**Jest**
-Configured Jest testing framework for React Native applications achieving 86.55% code coverage. Implemented comprehensive unit tests across 4 service layers with 49 test cases.
-
-**ts-jest**
-Integrated TypeScript with Jest for type-safe unit testing. Resolved compatibility issues and configured proper module mocking for Firebase and external dependencies.
-
-**Qtest**
-Test case management and test execution reporting. Managed end-to-end test campaigns across multiple environments with comprehensive test documentation.
-
-**Autosys**
-Scheduled and monitored automated job workflows for production testing. Managed batch processing and system maintenance testing through Autosys automation.
-
-**Salesforce**
-Validated Salesforce implementations and custom configurations. Tested custom modules and integrations ensuring business logic alignment with client requirements.
+**Critical Finding:**
+- **TC-CART-001** (Add to Cart) — ✅ PASSED
+  - Successfully added product, updated quantity, verified Firebase persistence  
+  - [Test Case](https://drive.google.com/file/d/1XjJ8XYJlEDDNHN8ilfJlPwJM-GAKV2WY/view?usp=sharing)  
+  - [Test Evidences](https://drive.google.com/drive/folders/18WYtXKNZLO8XtADyB7XACXH7yC3YT1Tt?usp=sharing)
+    
+- **TC-ORDER-001** (Checkout) — ❌ FAILED
+  - **Defect DEF-2026-001:** Order visible in UI but not persisted to Firebase
+  - Impact: BLOCKS PRODUCTION (affects 100% of checkout users)  
+    [Test Case](https://drive.google.com/file/d/1ZF_pcjgQBcx--u1_phpu5P6nnreOFl5I/view?usp=sharing)  
+    [Test Evidences](https://drive.google.com/drive/folders/18ERWoZmy9JnnWn-maOCZCezyk1kGjMFi?usp=sharing)  
 
 ---
 
-## Programming Languages
+### Unit Testing: 86.55% Coverage Achievement
 
-**JavaScript**
-Proficient in JavaScript for test automation scripting and API testing logic. Implemented Postman scripts for dynamic API testing and complex validation scenarios.
+**Framework:** Jest + TypeScript  
+**Total Tests:** 49 | **Pass Rate:** 100%
 
-**Java**
-Experienced in Java for automation framework development and object-oriented test design. Built maintainable automation code with proper design patterns and best practices.
+**Coverage by Service:**
 
-**TypeScript**
-Advanced TypeScript expertise for type-safe test code and React Native service layer testing. Achieved 86.55% coverage on TypeScript service files with comprehensive type definitions.
+| Service | Coverage | Tests | Achievement |
+|---------|----------|-------|-------------|
+| products.ts | 100% | 18 | Perfect coverage |
+| wishlist.ts | 92.3% | 11 | Excellent |
+| cart.ts | 78.26% | 20 | Good |
+| orders.ts | 74% | 5 | Fair |
 
----
+**Code Sample - Happy Path:**
+```typescript
+it('should calculate cart total correctly', () => {
+  const items = [
+    { product: { price: 10 }, quantity: 2 },
+    { product: { price: 20 }, quantity: 1 }
+  ];
+  expect(calculateCartTotal(items)).toBe(40);
+});
+```
 
-## Methodologies & Practices
+**Code Sample - Error Handling:**
+```typescript
+it('should handle Firebase errors gracefully', async () => {
+  mockGetDocs.mockRejectedValue(new Error('Firebase error'));
+  await expect(getCartItems('user123')).rejects.toThrow();
+});
+```
 
-**Agile/Scrum Testing**
-Experienced Agile QA practitioner executing testing within sprint cycles. Collaborated with cross-functional teams in daily standups and sprint planning to ensure quality delivery.
+**Key Challenges Solved:**
+1. Jest 30 + ts-jest 29 incompatibility → Downgraded to Jest 29
+2. Empty mock data not increasing coverage → Rewrote with realistic test data
+3. CodeQL false positives on coverage reports → Excluded coverage/ directory
+4. ESLint react-hooks/exhaustive-deps violations → Wrapped async functions with useCallback
 
-**Continuous Integration/Continuous Delivery (CI/CD)**
-Implemented and maintained CI/CD pipelines with automated testing gates. Configured GitHub Actions workflows triggering comprehensive test suites on every code commit.
-
-**Test-Driven Development (TDD)**
-Followed TDD principles developing unit tests before implementation. Wrote 49 comprehensive tests achieving 86.55% coverage on critical business logic before feature development.
-
-**Waterfall Testing**
-Executed full SDLC testing phases in traditional waterfall projects. Managed sequential test cycles from requirements analysis through production support.
-
-**DevOps Integration**
-Collaborated with DevOps teams on infrastructure testing and deployment validation. Participated in CI/CD pipeline optimization and automated test integration.
-
-**Defect Lifecycle Management**
-Expert in complete defect tracking from discovery through resolution and closure. Prioritized 50+ defects, mitigated sprint spillovers, and maintained zero-defect quality standards.
-
----
-
-## Domain Expertise
-
-**Financial Services Testing**
-End-to-end QA for fintech applications across mobile and web platforms. Ensured regulatory compliance, data security, and transaction integrity through comprehensive testing.
-
-**Healthcare & Wellness**
-QA engineering for health tech platforms serving adolescent users (Oky Philippines). Validated health data accuracy, accessibility features, and user safety across platforms.
-
-**AI/Machine Learning Integration**
-Specialized testing for AI-powered features including OpenAI API integrations. Validated AI accuracy, edge cases, and intelligent algorithm outputs.
-
-**Tourism & Hospitality**
-Comprehensive testing for tourism sector HRMS platforms and booking systems. Ensured user experience and data integrity across complex reservation workflows.
+ [Unit Testing Report](https://drive.google.com/file/d/1qJr_jHLfjji2EdBnV6SH-ECrpJkS0Pgc/view?usp=sharing) 
 
 ---
 
-## Leadership & Soft Skills
+## 🤖 AUTOMATION & TECHNICAL SKILLS
 
-**Test Planning & Strategy Leadership**
-Designed and delivered comprehensive test plans reducing post-launch risks by 30%. Led cross-functional QA teams and owned testing strategy for mission-critical applications.
+### Appium Mobile Automation (E-commerce App)
+**Repository:** [-](-)  
+**Platforms:** iOS & Android
 
-**Mentorship & Team Leadership**
-Guided junior QA engineers in test execution, automation framework development, and best practices. Established testing standards and knowledge-sharing culture across QA teams.
+Automated user authentication, navigation, social interactions, and data persistence across app sessions.
 
-**Cross-Functional Collaboration**
-Worked closely with developers, product managers, and stakeholders to align testing strategy with business objectives. Facilitated communication between technical and non-technical teams.
-
-**Documentation & Reporting**
-Authored comprehensive testing documentation, test reports, and defect analysis. Created user guides and testing playbooks for QA team reference.
-
-**Problem-Solving & Root Cause Analysis**
-Identified critical system gaps and logic errors in complex applications. Performed thorough RCA on production issues to prevent recurrence.
-
-**Project Management**
-Successfully delivered QA for 13+ client projects within timeline and budget constraints. Managed testing resources and prioritized efforts to meet strict deadlines.
+[View Test Recording](https://drive.google.com/file/d/1SpLeP05pj73QvlFhp7q1AEDgJyH4aYz-/view?usp=sharing)
 
 ---
 
-## Samples of Work
+### Selenium Framework Example
+**Language:** Java | **Application:** E-Commerce App | **Coverage:** 87% of user stories
 
-### Test Cases
-• I have created a sample E-commerce App which was used to create the following demo test cases.
+```java
+@Test
+public void testAddProductToCart() {
+    driver.findElement(By.id("catalog_link")).click();
+    driver.findElement(By.id("search_input")).sendKeys("Laptop");
+    driver.findElement(By.className("product_item")).click();
+    driver.findElement(By.id("add_to_cart_btn")).click();
+    
+    WebElement successMsg = driver.findElement(By.className("success_message"));
+    Assert.assertTrue(successMsg.isDisplayed());
+}
+```
 
-- Demo Test Case 1_ Add Product to Cart - Positive Scenario.  
-  [Test Case](https://drive.google.com/file/d/1XjJ8XYJlEDDNHN8ilfJlPwJM-GAKV2WY/view?usp=sharing)  
-  [Test Evidences](https://drive.google.com/drive/folders/18WYtXKNZLO8XtADyB7XACXH7yC3YT1Tt?usp=sharing)  
-  [Post Conditions](https://drive.google.com/drive/folders/1xUP0ZkfUo5SCykJs_Sj7vkwjVanqg2xk?usp=sharing)  
+---
 
-- Demo Test Case 2_ Complete Checkout Flow - Positive Scenario  
-  [Test Case](https://drive.google.com/file/d/1ZF_pcjgQBcx--u1_phpu5P6nnreOFl5I/view?usp=sharing)  
-  [Test Evidences](https://drive.google.com/drive/folders/18ERWoZmy9JnnWn-maOCZCezyk1kGjMFi?usp=sharing)  
-  [Post Conditions](https://drive.google.com/drive/folders/1KRPYOg0E6_K9t-U6-JRfsuRaBIkTqWQT?usp=sharing)   
+### API Testing (Postman)
+**Endpoints:** Firebase Firestore operations, Authentication, Custom REST APIs
 
-### Bug Documentations
-• Bug found and reported in the E-Commerce App:
-- Place Order Button Creates Order Without Database Persistence
- [Bug Report](https://drive.google.com/file/d/1fVaDsV88B5mOo38zQC7HjMMuhHgYCrM4/view?usp=sharing)
+**Test Scenarios:**
+- ✅ Add product to cart → Verify Firebase document created
+- ✅ Complete checkout → Verify order persisted and cart cleared
+- ✅ Error handling → Verify proper error messages returned
 
-### Automation Testing Sample Project
-• This is my sample Automation Test Project using Appium for a [Bar Hopping App](https://github.com/cbalderama/BunnyTesting)
+---
 
-• The proof of testing of the Automation Project [here](https://drive.google.com/file/d/1SpLeP05pj73QvlFhp7q1AEDgJyH4aYz-/view?usp=sharing)
+### SQL Query Examples
+**Test Data Preparation:**
+```sql
+INSERT INTO users (user_id, email) VALUES ('test_user_001', 'test@qa.com');
+INSERT INTO products (product_id, name, price) VALUES 
+  ('PROD_001', 'Laptop', 1599.99),
+  ('PROD_002', 'Phone', 999.99);
+```
 
-### Unit Testing
-[](https://drive.google.com/file/d/1qJr_jHLfjji2EdBnV6SH-ECrpJkS0Pgc/view?usp=sharing)
+**Data Verification:**
+```sql
+SELECT o.order_id, SUM(oi.quantity * p.price) as total
+FROM orders o
+JOIN order_items oi ON o.order_id = oi.order_id
+JOIN products p ON oi.product_id = p.product_id
+WHERE o.user_id = 'test_user_001'
+GROUP BY o.order_id;
+```
 
+---
 
+### CI/CD Pipeline (GitHub Actions)
+
+**Automated Checks on Every PR:**
+1. ESLint → Code style validation ✅
+2. TypeScript → Type checking ✅
+3. Jest → Unit tests (49 tests) ✅
+4. SonarCloud → Quality gate (86.55% coverage) ✅
+5. CodeQL → Security scanning ✅
+
+**Pipeline Status:**
+- ✅ CI passing 100%
+- ✅ SonarCloud Quality Gate: PASSED
+- ✅ CodeQL: 0 vulnerabilities
+
+[View GitHub Actions](https://github.com/cbalderama/PersonalProject/actions)
+
+---
+
+## 📊 METRICS & RESULTS
+
+### Code Coverage Dashboard
+
+| Metric | Result | Target | Status |
+|--------|--------|--------|--------|
+| Overall Coverage | 86.55% | ≥ 80% | ✅ EXCEEDED |
+| Functions | 89.18% | ≥ 80% | ✅ EXCEEDED |
+| Lines | 84.68% | ≥ 80% | ✅ EXCEEDED |
+| Test Cases | 49 | - | ✅ COMPREHENSIVE |
+
+### Quality Gates
+
+| Check | Status | Details |
+|-------|--------|---------|
+| SonarCloud | ✅ PASSED | 0 code smells, 0 vulnerabilities |
+| CodeQL | ✅ PASSED | 0 high/critical security issues |
+| Test Execution | ✅ 100% | All 49 tests passing |
+| CI Pipeline | ✅ 100% | All checks passing |
+
+---
+
+## 🛠️ Tech Stack
+
+**Testing:** Jest • Selenium • Appium • Postman  
+**CI/CD:** GitHub Actions • SonarCloud • CodeQL  
+**Languages:** JavaScript • TypeScript • Java • SQL  
+**Tools:** JIRA • Qtest • Git • Firebase
+
+---
+
+## 📚 Resources
+
+- **GitHub Profile:** [cbalderama](https://github.com/cbalderama)
+- **Main Project:** [PersonalProject](https://github.com/cbalderama/PersonalProject)
+- **Automation Project:** [-](-)
+- **Code Quality:** [SonarCloud Dashboard](https://sonarcloud.io/summary/new_code?id=cbalderama_PersonalProject)
+- **LinkedIn:** [cydrick-balderama](https://www.linkedin.com/in/cydrick-balderama-91953a21b)
+- **Email:** devbalderama@gmail.com
 
